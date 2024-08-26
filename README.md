@@ -1,9 +1,41 @@
-<h1 align="center">Hi 👋, I'm Manuel Villegas</h1>
-<h3 align="center">Junior at the University of Houston interested in Game Development and Machine Learning!</h3>
+<h1 align="center">
+  <img
+    width="50px"
+    alt="hand"
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+  />
+  Hello! I'm Manuel, Welcome to my GitHub!
+</h1>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="360" alt="Welcome GIF" style="display: block; margin: auto;">
+</div>
 
-<p align="left">
-</p>
+<div id="badges" align="center">
+   <a href="https://www.linkedin.com/in/manuel-villegasorellana/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:manuelv0703@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+  </a>
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<h2 align="center">A Bit About Me...</h2>
+<p> 🩻 I'm currently attending the University of Houston to obtain my Bachelor's in Computer Science with a minor in Mathematics. </p>
+<p> 💡 My interests are Game Development, Data Science & Machine Learning, and Web Development. </p>
+<p> 🌱 I’m currently learning Game Development and Web Development. </p>
+<p> 🤔 I don't believe in limiting yourself to one niche in technology. </p>
+
+<h2 align="center">I have experience with these technologies:</h2>
+
+<div align="center">
+
+| Languages | Frameworks and Libraries | Tools and Environments |
+|-----------|--------------------------|------------------------|
+| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,cs,html,css,mysql,r,python&perline=4" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,unreal,git,github" /></a></p> |
+
+</div>
+<h2></h2>
