@@ -35,7 +35,7 @@
 
 | Languages | Frameworks and Libraries | Tools and Environments |
 |-----------|--------------------------|------------------------|
-| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,mysql,r,python,js,ts,matlab&perline=4" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,flask,react,next" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,unreal,git,github,linux,bash,azure" /></a></p> |
+| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,mysql,r,python,js,ts,matlab&perline=4" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,flask,react,next,tailwindcss" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,unreal,git,github,linux,bash,azure" /></a></p> |
 
 </div>
 <h2></h2>
